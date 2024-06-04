@@ -14,6 +14,6 @@ Cofeeco is designed to provide a clean and modern interface for cafe menus. The 
 - **Interactive elements**: Hover effects, clickable buttons, and more to enhance user interaction.
 - **Customizable**: Easy to adapt and customize for different cafes and their unique offerings.
 
-##Link to Figma
+Link to Figma:
 
 https://www.figma.com/design/483b8y39sJV5vCVUKMNle4/Untitled?node-id=0-1&t=9xmaWvNjmh1Y0gxQ-1
